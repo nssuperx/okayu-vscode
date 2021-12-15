@@ -1,5 +1,5 @@
 # okayu-vscode
-vscode color theme
+Hololive Nekomata Okayu color theme
 
 # color
 * official: #BF65E8, #E27DFD, #B190FC
