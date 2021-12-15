@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Nekomata Okayu",
+                "label": "Hololive: Nekomata Okayu",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Nekomata Okayu-color-theme.json"
+                "path": "./themes/okayu.json"
             }
         ]
     }
