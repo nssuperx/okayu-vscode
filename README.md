@@ -1,5 +1,7 @@
 # okayu-vscode
-Hololive Nekomata Okayu color theme
+VSCode color theme like Hololive Nekomata Okayu
+
+![fig1](./figs/sample.png)
 
 # 使い方
 マーケットプレイスに公開していないため、手作業で使えるようにしてください。
@@ -48,3 +50,6 @@ Looks like the following.
 * Use at your own risk.
 * Please make a better theme. And let me know.
     * I would be very happy if you could pull request.
+
+# 変更したいところ
+紫すぎるので、なんとか落ち着いた雰囲気にしたい。
