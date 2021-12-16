@@ -2,7 +2,7 @@
     "name": "okayu-theme",
     "displayName": "okayu theme",
     "description": "Hololive Nekomata Okayu color theme",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.63.0"
     },
