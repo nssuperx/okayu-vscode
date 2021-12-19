@@ -52,4 +52,4 @@ Looks like the following.
     * I would be very happy if you could pull request.
 
 # 変更したいところ
-紫すぎるので、なんとか落ち着いた雰囲気にしたい。
+暗すぎるので、もう少し明るくしたい。
