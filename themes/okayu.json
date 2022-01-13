@@ -1,5 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
+	"name": "Hololive: Nekomata Okayu",
 	"type": "dark",
 	"colors": {
 		"focusBorder": "#3e0d77",
@@ -172,6 +173,12 @@
 				"foreground": "#998d55"
 			}
 		},
+		{
+            "scope": "variable.parameter.function",
+            "settings": {
+                "foreground": "#7391f5"
+            }
+        },
 		{
 			"scope": "constant.language",
 			"settings": {
@@ -567,7 +574,7 @@
 				"entity.name.operator"
 			],
 			"settings": {
-				"foreground": "#499ab3"
+				"foreground": "#3db6e9"
 			}
 		},
 		{
@@ -696,5 +703,5 @@
 			}
 		}
 	],
-	"name": "Hololive: Nekomata Okayu"
+	"semanticHighlighting": true
 }
