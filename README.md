@@ -1,7 +1,7 @@
 # okayu-vscode
 VSCode color theme like Hololive Nekomata Okayu
 
-![fig1](./figs/sample.png)
+![fig1](./images/sample.png)
 
 # 使い方
 マーケットプレイスに公開していないため、手作業で使えるようにしてください。
