@@ -15,6 +15,11 @@
                 "label": "Hololive: Nekomata Okayu",
                 "uiTheme": "vs-dark",
                 "path": "./themes/okayu.json"
+            },
+            {
+                "label": "Hololive: Uruha Rushia",
+                "uiTheme": "vs-dark",
+                "path": "./themes/rushia.json"
             }
         ]
     }
