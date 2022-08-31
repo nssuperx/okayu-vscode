@@ -12,6 +12,11 @@
     "contributes": {
         "themes": [
             {
+                "label": "Hololive: Nekomata Okayu (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/okayu-light.json"
+            },
+            {
                 "label": "Hololive: Nekomata Okayu",
                 "uiTheme": "vs-dark",
                 "path": "./themes/okayu.json"
