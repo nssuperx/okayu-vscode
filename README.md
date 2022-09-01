@@ -2,7 +2,7 @@
 
 VSCode color theme like Hololive Nekomata Okayu
 
-![okayu](https://github.com/nssuperx/okayu-vscode/blob/main/images/sample.png?raw=true)
+![okayu](https://github.com/nssuperx/okayu-vscode/blob/main/images/okayu.png?raw=true)
 
 ## 使い方
 
@@ -14,14 +14,15 @@ VSCode color theme like Hololive Nekomata Okayu
 
 以下のようになればOKです。
 
-```
+```text
 .vscode/extensions/okayu-theme/
 ├── CHANGELOG.md
 ├── LICENSE
 ├── README.md
 ├── package.json
 └── themes
-    └── okayu.json
+    ├── okayu.json
+    └── rushia.json
 ```
 
 ## How to use
@@ -34,14 +35,15 @@ It is not available in the marketplace, you will have to install it manually.
 
 Looks like the following.
 
-```
+```text
 .vscode/extensions/okayu-theme/
 ├── CHANGELOG.md
 ├── LICENSE
 ├── README.md
 ├── package.json
 └── themes
-    └── okayu.json
+    ├── okayu.json
+    └── rushia.json
 ```
 
 ## color
@@ -62,11 +64,15 @@ Looks like the following.
 
 ## 変更したいところ
 
-暗すぎるので、もう少し明るくしたい。
+フォント、太字とか下線つけてもいいかもしれない。
+
+ライトテーマの方が向いてそう。
 
 ## 予定
 
 * [x] Nekomata Okayu
+  * [x] Dark
+  * [ ] Light
 * [x] Uruha Rushia
 * [ ] Kazama Iroha
 
