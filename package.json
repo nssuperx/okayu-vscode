@@ -27,5 +27,9 @@
                 "path": "./themes/rushia.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nssuperx/okayu-vscode"
     }
 }

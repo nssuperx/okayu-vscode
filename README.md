@@ -4,47 +4,12 @@ VSCode color theme like Hololive Nekomata Okayu
 
 ![okayu](https://github.com/nssuperx/okayu-vscode/blob/main/images/okayu.png?raw=true)
 
-## 使い方
+## 使い方 How to use
 
-マーケットプレイスに公開していないため、手作業で使えるようにしてください。
+マーケットプレイスには公開していないので、[Releases](https://github.com/nssuperx/okayu-vscode/releases)からVSIXパッケージをダウンロードしてインストールしてください。
 
-1. zipファイルなどでダウンロード
-1. 展開
-1. ホームディレクトリの`.vscode/extensions/`以下にコピー
-
-以下のようになればOKです。
-
-```text
-.vscode/extensions/okayu-theme/
-├── CHANGELOG.md
-├── LICENSE
-├── README.md
-├── package.json
-└── themes
-    ├── okayu.json
-    └── rushia.json
-```
-
-## How to use
-
-It is not available in the marketplace, you will have to install it manually.
-
-1. Download zip
-1. Unzip this file
-1. Copy to your home directory under `.vscode/extensions/`
-
-Looks like the following.
-
-```text
-.vscode/extensions/okayu-theme/
-├── CHANGELOG.md
-├── LICENSE
-├── README.md
-├── package.json
-└── themes
-    ├── okayu.json
-    └── rushia.json
-```
+It is not available in the marketplace.
+Download from [Releases](https://github.com/nssuperx/okayu-vscode/releases) page the VSIX package and install it.
 
 ## color
 
